@@ -1,0 +1,6 @@
+b,0,e,e,f,f
+b,d,d,d,g,g
+a,a,0,h,0,i
+c,c,h,0,i
+0,j,j,j,k,k
+0,0,0,l,l,l
